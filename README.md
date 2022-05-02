@@ -10,3 +10,10 @@ https://itsmyfirstwebsite.shinyapps.io/ShinyApp_FinalProject/
 https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
 
 https://www.kaggle.com/datasets/jessevent/all-crypto-currencies
+
+## If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
+1. Download all items in the ShinyProject folder
+2. Open ShinyProject.Rproj in R Studio
+3. Make sure all .png files are in a folder called www
+4. Open final_app_shina.R
+5. Click "Run App" in the upper right corner of the code panel
