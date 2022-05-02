@@ -4,3 +4,7 @@ Used R shiny to create interactive visualizations on Cryptocurrency. Cryptocurre
 
 ## Click here to launch the app online
 https://itsmyfirstwebsite.shinyapps.io/ShinyApp_FinalProject/
+
+## Data Sources:
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
+https://www.kaggle.com/datasets/jessevent/all-crypto-currencies
