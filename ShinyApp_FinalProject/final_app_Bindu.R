@@ -183,7 +183,7 @@ ui <- fluidPage(
                            p("It was the result of Chase Romano's Visual Analytics course at the University of 
                  North Carolina Charlotte through the Data Science and Business Analytics MS program."),
                            br(),
-                           HTML('<a href="https://github.com/shinadhingra18" style="color: #e36209">View Code on GitHub</a>')
+                           HTML('<a href="https://github.com/BinduMadhavi218" style="color: #e36209">View Code on GitHub</a>')
                            
                            
                            
