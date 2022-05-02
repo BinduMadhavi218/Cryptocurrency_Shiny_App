@@ -1,2 +1,2 @@
 # Cryptocurrency_Shiny_App
-This is the Final Project for the Visual analytics class. This project is for Crypto currency, the first taste of virtual money, available to anyone, anywhere, anytime.
+This project is on Cryptocurrency, the first taste of virtual money, available to anyone, anywhere, anytime. The visualizations we created shows the volatility, which is the dips and highs of the currency. People tend to buy more when there is a dip in the price. Our datasource is Kaggle. We got the data from multiple kaggle projects. Since we merged more than two datasets, we had to do a little bit of data pre-processing before we started working on the app.
